@@ -1,3 +1,4 @@
+![alt tag](https://travis-ci.org/jh3y/testPlayground.svg)
 testPlayground
 ==============
 
